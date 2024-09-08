@@ -1,0 +1,14 @@
+﻿  AudioManager.cpp
+  Core.cpp
+C:\Users\dario\Desktop\SFML\EstructuraCore\Core.cpp(23,40): warning C4244: 'argumento': conversión de 'const float' a 'unsigned int'; posible pérdida de datos
+C:\Users\dario\Desktop\SFML\EstructuraCore\Core.cpp(23,28): warning C4244: 'argumento': conversión de 'const float' a 'unsigned int'; posible pérdida de datos
+  FontManager.cpp
+  Game.cpp
+  InputManager.cpp
+  main.cpp
+  Renderer.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 359 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  SFMLProject2.vcxproj -> C:\Users\dario\Desktop\SFML\EstructuraCore\x64\Release\EstructuraCore.exe

@@ -1,0 +1,7 @@
+﻿  Core.cpp
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game4\Core.cpp(23,40): warning C4244: 'argumento': conversión de 'const float' a 'unsigned int'; posible pérdida de datos
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game4\Core.cpp(23,28): warning C4244: 'argumento': conversión de 'const float' a 'unsigned int'; posible pérdida de datos
+  Game.cpp
+  main.cpp
+  Generando código...
+  SFMLProject2.vcxproj -> C:\Users\dario\Desktop\SFML\EstructuraCore - Game4\x64\Debug\EstructuraCore.exe
